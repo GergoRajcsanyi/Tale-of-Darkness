@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Line
+  - FallingObject
+  - FallDetector
+  - Teleporter
+  - Thorns
+  - NextScene
+  - EclipseSuite
+  - BossAttack
+  - Mirror
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Screen
+    uniqueID: 4100491309
+    locked: 0
+  - name: Background
+    uniqueID: 774684621
+    locked: 0
+  - name: Background_world
+    uniqueID: 3655737973
+    locked: 0
+  - name: Player
+    uniqueID: 1673041589
+    locked: 0
+  - name: Platforms
+    uniqueID: 3317372993
+    locked: 0
+  - name: Foreground_world
+    uniqueID: 2778051775
+    locked: 0
+  - name: Foreground
+    uniqueID: 1912283313
+    locked: 0
