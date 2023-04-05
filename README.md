@@ -1,6 +1,9 @@
 # Tale of Darkness (Final Year Project)
 ![CoverArt](https://user-images.githubusercontent.com/129614966/229308733-11a418cc-b536-4874-970f-005ca89c028c.jpg)
 
+![alt](https://img.shields.io/badge/Build%20Date-09.01.23-orange) ![alt](https://img.shields.io/badge/Game%20Version-1.1-green) ![alt](https://img.shields.io/badge/Levels-4-yellow) ![alt](https://img.shields.io/badge/Difficulty-6%2F10-critical) ![alt](https://img.shields.io/badge/Core%20Mechanic-Puzzle%20Platforming%20%26%20Drawing-yellowgreen)
+
+
 Tale of Darkness is an adventure puzzle-platform game in which you play as Sol, a boy who is unable to wake up from a dream that has been overshadowed by a mysterious solar eclipse. Your goal is to help him through this oppressive and unknown realm, called ”Dreamlands” while solving various jumping puzzles and gaining 4 new abilities. The adventure spans the plains of a ruined dream, a long-forgotten cave and a dark forest to finally end at the edge of a by then disintegrated nightmare, where you must defeat an otherworldly entity that shouldn't even exist.
 
 # Project features
